@@ -3,7 +3,7 @@ Taking out important details from a pdf or docx file for business use
 
 
 ### Tools used to annotate data for training purpose
-1. Labelstudio https://labelstud.io/ ==> prefered over other
+1. Label Studio https://labelstud.io/ ==> prefered over other || free to use
 2. Doccano https://doccano.herokuapp.com/
 3. INCEpTION https://webanno.github.io/webanno/
 
